@@ -8,4 +8,4 @@ Ademais, foi estimado como determinadas características podem influenciam na ro
 
 Desse trabalho foi apresentado no XXVI ENCONTRO REGIONAL DE ECONOMIA. 
 
-*Esse repósitorio possui o código em R relativo ao tratamento da base de dados, estatísticas descritivas e a estimação do modelo economêtrico. 
+*Esse repósitorio possui o código em R relativo ao tratamento da base de dados, estatísticas descritivas e a estimação do modelo economêtrico.*
