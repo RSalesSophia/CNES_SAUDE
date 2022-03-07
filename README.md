@@ -3,13 +3,14 @@
 
 Esse repositório possui três scripts em jupyter notebook em R. O primeiro é referente à manipulação dos dados, a segunda à análise exploratória dos dados e a terceira à modelagem de dados. 
 
+Utilizaram-se dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES), extraídos do site do DataSUS.
 
 ####  1. Problema
 <hr class="style1">
 
 Analisar os efeitos da pandemia da COVID-19 sobre a rotatividade dos profissionais da saúde na Paraíba em hospitais públicos e privados. 
 
-#### 2. Metodologia 
+#### 2. Solução estratégica 
 <hr class="style1">
 
 Foram calculados os índices de rotatividade de 2019 e 2020 dos hospitais públicos e privados no geral e de forma desagrupada, apresentando análises para as mesorregiões paraibanas, por carga horária semanal, categoria de profissional, vínculos trabalhistas, porte dos hospitais.
