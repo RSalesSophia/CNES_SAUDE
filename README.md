@@ -3,8 +3,7 @@
 
 Esse repositório possui três scripts em jupyter notebook em R. O primeiro é referente à manipulação dos dados, a segunda à análise exploratória dos dados e a terceira à modelagem de dados. 
 
-Utilizaram-se dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES), extraídos do site do DataSUS.
-
+Os dados são do Cadastro Nacional de Estabelecimentos de Saúde (CNES).
 ####  1. Problema
 <hr class="style1">
 
